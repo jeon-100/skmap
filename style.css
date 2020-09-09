@@ -297,7 +297,7 @@ rect {
 
 #hide_instructions {
   position: absolute;
-  top: 490px;
+  top: 50%;
   left: 290px;
   padding: 10px;
   background-color: #ff7473;
