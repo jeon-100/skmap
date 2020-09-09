@@ -297,7 +297,7 @@ rect {
 
 #hide_instructions {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 290px;
   padding: 10px;
   background-color: #ff7473;
@@ -422,4 +422,27 @@ rect {
     align-content: center;
     
   }
+  #hide_instructions {
+  position: absolute;
+  top: 50%;
+  left: 290px;
+  padding: 10px;
+  background-color: #ff7473;
+  width: 100px;
+  text-align: center;
+  border-radius: 6px;
+  color: black;
+  }
+  #intro {
+  background-color: black;
+  padding: 30px 35px;
+  padding-left: 50px;
+  border-radius: 8px;
+  opacity: 0.7;
+  position: relative;
+  top: 30%;
+  font-size: small;
+  line-height: 190%;
+  }
+  
 }
