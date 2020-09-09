@@ -242,8 +242,10 @@ rect {
   z-index: 3;
   margin: 0px;
   background-image: url("koreauniv.jpg");
-  background-size: 100vw 100vh;
+  background-size: 100vh;
   border-radius: 0;
+  width: 660px;
+  height: 100vh;
 }
 
 #ht {
@@ -441,8 +443,4 @@ rect {
     font-size: small;
     line-height: 190%;
   }
-  .set_point {
-    top: 30%;
-  }
 }
-
