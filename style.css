@@ -245,7 +245,6 @@ rect {
   background-size: 100vh;
   border-radius: 0;
   width: 660px;
-  height: 100vh;
 }
 
 #ht {
@@ -442,6 +441,9 @@ rect {
     top: 30%;
     font-size: small;
     line-height: 190%;
+  }
+  .set_point {
+    top: 30%;
   }
 }
 
