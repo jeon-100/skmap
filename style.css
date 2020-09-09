@@ -246,7 +246,7 @@ rect {
   border-radius: 0;
   width: 660px;
   height: 100vh;
-  background-size: auto 100%;
+  background-size: 100% auto%;
 }
 
 #ht {
@@ -362,7 +362,7 @@ rect {
   position: absolute;
   width: 200px;
   height: 110px;
-  top: 30%;
+  top: 50%;
   left: 320px;
   margin: -50px 0 0 -50px;
   flex-direction: column;
@@ -443,5 +443,8 @@ rect {
     top: 30%;
     font-size: small;
     line-height: 190%;
+  }
+  .set_point {
+    top: 30%;
   }
 }
