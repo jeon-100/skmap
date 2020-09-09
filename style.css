@@ -1,3 +1,4 @@
+
 body {
   padding: 0px;
   margin: 0px;
@@ -136,14 +137,6 @@ footer {
 
 .white {
   color: #fff;
-}
-
-.green {
-  color: #0d0;
-}
-
-.red {
-  color: #ff9166;
 }
 
 .spinner {
@@ -410,4 +403,24 @@ rect {
   margin-left: 180px;
   margin-top: 5px;
   cursor: pointer;
+}
+
+.green {
+  color: #0d0;
+  opacity: 0.9;
+}
+
+.red {
+  color: #ff9166;
+  opacity: 0.9;
+}
+
+@media screen and (max-width: 768px) {
+  #instructions_panel {
+    background-image: url("phone.jpg");
+    background-size: auto 100%;
+    justify-content: center;
+    align-content: center;
+    
+  }
 }
