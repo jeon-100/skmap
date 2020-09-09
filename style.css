@@ -417,7 +417,6 @@ rect {
 
 @media screen and (max-width: 768px) {
   #instructions_panel {
-    background-image: url("phone.jpg");
     background-size: auto 100%;
     justify-content: center;
     align-content: center;
