@@ -246,7 +246,7 @@ rect {
   background-size: 100vh;
   border-radius: 0;
   width: 660px;
-  height: 100vh;
+  height: 700px;
 }
 
 #ht {
@@ -297,7 +297,7 @@ rect {
 
 #hide_instructions {
   position: absolute;
-  top: 60%;
+  top: 70%;
   left: 290px;
   padding: 10px;
   background-color: #ff7473;
