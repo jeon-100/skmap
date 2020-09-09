@@ -545,7 +545,7 @@ $.extend(Controller, {
     //search room function //
     $("#Search_bt").click(function () {
       var x = document.getElementById("name").value.toUpperCase();
-      if (x == "최충현홀") {
+      if (x == "최종현홀") {
         Controller.setEndPos(28, 32);
       } else {
         alert(
